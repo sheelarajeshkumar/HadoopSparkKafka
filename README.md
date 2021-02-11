@@ -8,7 +8,7 @@ To create the blog posts we use [`remark`](https://github.com/remarkjs/remark) a
 
 ## Demo
 
-[https://elasticlearn.vercel.app/](https://elasticlearn.vercel.app/)
+[https://hskintro.vercel.app/](https://hskintro.vercel.app/)
 
 Your blog should be up and running on [http://localhost:3000](http://localhost:3000)! If it doesn't work, post on [GitHub discussions](https://github.com/vercel/next.js/discussions).
 
